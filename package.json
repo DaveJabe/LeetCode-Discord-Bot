@@ -1,0 +1,19 @@
+{
+  "name": "leetcodebot",
+  "version": "1.0.0",
+  "description": "A Discord Bot for daily LeetCode problems.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "David Jabech",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cheerio": "^1.0.0-rc.12",
+    "eris": "^0.17.1",
+    "express": "^4.18.1",
+    "pretty": "^2.0.0"
+  }
+ }
